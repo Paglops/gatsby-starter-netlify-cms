@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Mme Clette's lair
 image: /img/header-house.jpg
-heading: Insie Mme Clette's lair
+heading: Inside the secrets of the world
 subheading: A digital treasure box in the middle of the internets
 mainpitch:
   title: Mme Clette
