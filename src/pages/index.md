@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Mme Clette's lair
 image: /img/home-jumbotron.jpg
-heading: Mme Clette's lair
+heading: Insie Mme Clette's lair
 subheading: A digital treasure box in the middle of the internets
 mainpitch:
   title: Mme Clette
