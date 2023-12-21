@@ -18,9 +18,6 @@ intro:
     - image: /img/art.png
       text: >
         Art - Might it be audio, visual, experiencial; it brings emotions, reflexion or resonance.
-    - image: /img/organisation.png
-      text: >
-        Organisation - Chaos is upon anyone who doesn't have the right key and tools to ensure smoothness.
     - image: /img/innovation.png
       text: >
         Innovation - The future is created by seeing roday and evisioning tomorrow.
