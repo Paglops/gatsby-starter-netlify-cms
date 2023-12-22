@@ -9,11 +9,11 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
+        <div className="content has-text-left">
           <img
             src={logo}
             alt="Mme Clette"
-            style={{ width: "7em", height: "5em", color: "$clette-purple-invert"}}
+            style={{ width: "7em", height: "5em", color: "#D3BDFF"}}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -42,7 +42,7 @@ const Footer = class extends React.Component {
                         Form Examples
                       </Link>
                     </li> */}
-                    <li>
+                    {/* <li>
                       <a
                         className="navbar-item"
                         href="/admin/"
@@ -51,9 +51,7 @@ const Footer = class extends React.Component {
                       >
                         Log in
                       </a>
-                    </li>
-                  </ul>
-                  <ul className="menu-list">
+                    </li> */}
                     <li>
                       <Link className="navbar-item" to="/blog">
                         Fresh from the press
