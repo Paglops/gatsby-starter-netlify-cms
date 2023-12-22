@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-left">
+        <div className="content has-text-centered">
           <img
             src={logo}
             alt="Mme Clette"
@@ -65,7 +65,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+              <div className="column is-4 social has-text-right">
                 {/* <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
