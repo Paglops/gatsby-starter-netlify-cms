@@ -55,7 +55,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 //   data: PropTypes.object.isRequired,
 // };
 
-export default AboutPage;
+// export default AboutPage;
 
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
