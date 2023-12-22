@@ -14,3 +14,5 @@ const VaporwaveGrid = () => {
         </section>
     </div>
 }
+
+export default VaporwaveGrid;
